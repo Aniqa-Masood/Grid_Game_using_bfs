@@ -6,6 +6,7 @@ Print the result of using python
 Think about you have a 5x5 square space.
 
 ex)
+
 □□□□□
 
 □□□□□
@@ -19,6 +20,7 @@ ex)
 Only four random obstacles are generated here.
 
 ex)
+
 □□□□□
 
 □■□□□
