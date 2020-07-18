@@ -29,7 +29,7 @@ Exits and entrances must be created at the end of the space
 1. Print out a randomly generated string (the result should be different for each execution)
 2. Print the x_y coordinates that reach the shortest distance from S to E (there may be 2 answers)
 
-### Output no. 1
+### Output no. 1 (with little explaination)
 ![](ScreenShot1.png)
 
 ### Output no. 2
