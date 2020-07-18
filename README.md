@@ -7,23 +7,34 @@ Think about you have a 5x5 square space.
 
 ex)
 □□□□□
+
 □□□□□
+
 □□□□□
+
 □□□□□
+
 □□□□□
 
 Only four random obstacles are generated here.
 
 ex)
 □□□□□
+
 □■□□□
+
 □□□■□
+
 □□□□□
+
 □■□□■
 
 S = Start Point
+
 E = End Point
+
 The exit and entrance are assumed to be S / E respectively.
+
 Exits and entrances must be created at the end of the space
 
 1. Print out a randomly generated string (the result should be different for each execution)
